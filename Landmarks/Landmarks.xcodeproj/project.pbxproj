@@ -34,6 +34,7 @@
 		D5B13BA323877A4200F3FA52 /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5B13BA223877A4200F3FA52 /* LandmarksUITests.swift */; };
 		D5B13BB123877EE400F3FA52 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5B13BB023877EE400F3FA52 /* CircleImage.swift */; };
 		D5B13BB3238780AC00F3FA52 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5B13BB2238780AC00F3FA52 /* MapView.swift */; };
+		D5BA11A52389C2760054A0A2 /* charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5BA11A42389C2760054A0A2 /* charleyrivers.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -87,6 +88,7 @@
 		D5B13BA423877A4200F3FA52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D5B13BB023877EE400F3FA52 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		D5B13BB2238780AC00F3FA52 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		D5BA11A42389C2760054A0A2 /* charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		D5572587238871FB005C4D48 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				D5BA11A42389C2760054A0A2 /* charleyrivers.jpg */,
 				D5572593238871FB005C4D48 /* chilkoottrail.jpg */,
 				D5572590238871FB005C4D48 /* chincoteague.jpg */,
 				D557258C238871FB005C4D48 /* hiddenlake.jpg */,
@@ -320,6 +323,7 @@
 				D5B13B8D23877A4200F3FA52 /* LaunchScreen.storyboard in Resources */,
 				D557259B238871FB005C4D48 /* umbagog.jpg in Resources */,
 				D557259F238871FB005C4D48 /* stmarylake.jpg in Resources */,
+				D5BA11A52389C2760054A0A2 /* charleyrivers.jpg in Resources */,
 				D557259D238871FB005C4D48 /* chincoteague.jpg in Resources */,
 				D5B13B8A23877A4200F3FA52 /* Preview Assets.xcassets in Resources */,
 				D5572597238871FB005C4D48 /* icybay.jpg in Resources */,
