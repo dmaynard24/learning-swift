@@ -34,6 +34,7 @@
 		D5B13BA323877A4200F3FA52 /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5B13BA223877A4200F3FA52 /* LandmarksUITests.swift */; };
 		D5B13BB123877EE400F3FA52 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5B13BB023877EE400F3FA52 /* CircleImage.swift */; };
 		D5B13BB3238780AC00F3FA52 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5B13BB2238780AC00F3FA52 /* MapView.swift */; };
+		D5B2F81B238B14A8000C0A1C /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5B2F81A238B14A8000C0A1C /* UserData.swift */; };
 		D5BA11A52389C2760054A0A2 /* charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5BA11A42389C2760054A0A2 /* charleyrivers.jpg */; };
 /* End PBXBuildFile section */
 
@@ -88,6 +89,7 @@
 		D5B13BA423877A4200F3FA52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D5B13BB023877EE400F3FA52 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		D5B13BB2238780AC00F3FA52 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		D5B2F81A238B14A8000C0A1C /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		D5BA11A42389C2760054A0A2 /* charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -177,6 +179,7 @@
 				D5AEFDFF238872B600490097 /* LandmarkRow.swift */,
 				D5B13BB2238780AC00F3FA52 /* MapView.swift */,
 				D5B13B8223877A3E00F3FA52 /* SceneDelegate.swift */,
+				D5B2F81A238B14A8000C0A1C /* UserData.swift */,
 				D5B13B8623877A4200F3FA52 /* Assets.xcassets */,
 				D5B13B8B23877A4200F3FA52 /* LaunchScreen.storyboard */,
 				D5572582238871E7005C4D48 /* Models */,
@@ -365,6 +368,7 @@
 				D5B13BB3238780AC00F3FA52 /* MapView.swift in Sources */,
 				D5B13B8323877A3E00F3FA52 /* SceneDelegate.swift in Sources */,
 				D5AEFE00238872B600490097 /* LandmarkRow.swift in Sources */,
+				D5B2F81B238B14A8000C0A1C /* UserData.swift in Sources */,
 				D5B13B8523877A3E00F3FA52 /* LandmarkDetail.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
