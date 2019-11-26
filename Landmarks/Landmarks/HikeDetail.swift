@@ -35,7 +35,7 @@ struct HikeDetail: View {
                             .animation(nil)
                     }
                 }
-            }
+            }.padding(.top, 45)
         }
     }
 }
